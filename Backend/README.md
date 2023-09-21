@@ -16,7 +16,7 @@ Use `curl http://localhost:8080/demo` followed by any mapping commands.
 
 `http://localhost:8080/demo/delete` Deletes 1 user with `-d id=?`
 
-## SQL User info
+### SQL User info
 User: Matthew
 
 Password: password
